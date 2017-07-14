@@ -175,3 +175,8 @@ section .container .desc {
 .div-width {
   width: 100%;
 }
+
+
+#articles h2 {
+  cursor: pointer;
+}
